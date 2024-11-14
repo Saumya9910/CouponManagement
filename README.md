@@ -84,8 +84,7 @@ Copy code
     "threshold": 200,
     "discount": 10,
     "buyProducts": [
-      { "productId": 1, "quantity": 2 }
-    ],
+      { "productId": 1, "quantity": 2 } ],
     "getProducts": [
       { "productId": 2, "quantity": 1 }
     ],
